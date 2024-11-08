@@ -7,6 +7,7 @@ import (
 	"strings"
 )
 
+// main
 func main() {
 	fmt.Printf("change(\"LLRR\") = %s\n", change("LLRR"))
 	fmt.Printf("change(\"==RLL\") = %s\n", change("==RLL"))
